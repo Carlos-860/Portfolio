@@ -1,0 +1,37 @@
+{
+
+	"links": [
+		{
+			"person": "Home",
+			"link": "/#top",
+			"note": ""
+		},
+		{ 
+			"person": "Projects",
+			"link": "/#projects",
+			"note": ""
+		},	{
+			"person": "Skills",
+			"link": "/#skills",
+			"note": ""
+		},
+
+		{
+			"person": "Experience",
+			"link": "#experience",
+			"note": ""
+		}
+
+	],
+
+	"social": [
+		{
+			"url": "https://www.linkedin.com/in/carlos-timotheus-b276b4176/",
+			"icon": "linkedin"
+		},
+		{
+			"url": "https://github.com/Carlos-860",
+			"icon": "github"
+		}
+	]
+}

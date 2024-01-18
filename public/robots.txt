@@ -1,0 +1,11 @@
+# *
+User-agent: *
+Allow: *
+
+# Host
+Host: https://carlostimotheus5.com
+Host: https://www.carlostimotheus5.com
+
+# Sitemaps
+Sitemap: https://carlostimotheus5.com/sitemap.xml
+Sitemap: https://carlostimotheus5.com/sitemap-0.xml

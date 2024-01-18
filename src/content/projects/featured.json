@@ -1,0 +1,126 @@
+[
+	{
+		"project": "LT Headphones",
+		"url": "https://ecommerce-app-pink-nine.vercel.app/",
+		"repo": "public",
+		"repo_url": "https://github.com/Lyletimotheus/ecommerce-app",
+		"descriptionTitle": "LT Headphones is a ecommere store",
+		"description": ". It utilizes Stripe to process payments.",
+		"imageOptions": [],
+		"images": [
+			{
+				"h": "300",
+				"w": "700",
+				"url": "/img/lt-headphones.png"
+			}
+		],
+		"stack": [
+			{
+				"key": "nextjs",
+				"name": "Nextjs",
+				"type": "devicon"
+			},
+			{
+				"key": "javascript",
+				"name": "JavaScript",
+				"type": "devicon"
+			},
+			{
+				"key": "tailwindcss",
+				"name": "Tailwind",
+				"type": "devicon"
+			},
+			{
+				"key": "git",
+				"name": "Git",
+				"type": "devicon"
+			}
+		]
+	},
+	{
+		"project": "Star Wars",
+		"url": "https://star-wars-build.netlify.app/",
+		"repo": "public",
+		"repo_url": "https://github.com/Carlos-860/Star-wars-api",
+		"descriptionTitle": "An open-source portfolio website",
+		"description": "built on Next.js and React. A fast and responsive single page application.",
+		"imageOptions": [
+			{
+				"key": "size",
+				"value": "large"
+			}
+		],
+		"images": [
+			{
+				"h": "300",
+				"w": "700",
+				"url": "/img/star-wars.png"
+			}
+		],
+		"stack": [
+			{
+				"key": "react",
+				"name": "React",
+				"type": "devicon"
+			},
+			{
+				"key": "css3",
+				"name": "CSS3",
+				"type": "devicon"
+			},
+			{
+				"key": "javascript",
+				"name": "JavaScript",
+				"type": "devicon"
+			},
+			{
+				"key": "git",
+				"name": "Git(Hub)",
+				"type": "devicon"
+			}
+		]
+	},
+	{
+		"project": "Tesla",
+		"url": "https://tesla-clone-build.netlify.app/",
+		"repo": "public",
+		"repo_url": "https://github.com/Lyletimotheus/tesla-clone",
+		"descriptionTitle": "A Tesla clone built in React.",
+		"description": "A fast and responsive single page application.",
+		"imageOptions": [],
+		"images": [
+			{
+				"h": "300",
+				"w": "700",
+				"url": "/img/tesla.png"
+			}
+		],
+		"stack": [
+			{
+				"key": "react",
+				"name": "React",
+				"type": "devicon"
+			},
+			{
+				"key": "materialui",
+				"name": "materialui",
+				"type": "devicon"
+			},
+			{
+				"key": "redux",
+				"name": "redux",
+				"type": "devicon"
+			},
+			{
+				"key": "javascript",
+				"name": "JavaScript",
+				"type": "devicon"
+			},
+			{
+				"key": "git",
+				"name": "Git",
+				"type": "devicon"
+			}
+		]
+	}
+]
