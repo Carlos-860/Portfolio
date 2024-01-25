@@ -11,8 +11,8 @@ export default function TitleIndex() {
             <title>Portfolio</title>
 
             <meta name="application-name" content="Portfolio" />
-            <meta name="description" content="Carlos Timotheus - A dedicated Full Stack Developer proficient in React js and Laravel Framework." />
-            <meta name="title" content="Carlos TImotheus"/>
+            <meta name="description" content="Carlos Timotheus - A dedicated Frontend Developer proficient in React js, Next js and Laravel Framework." />
+            <meta name="title" content="Carlos Timotheus"/>
         </Head>
     );
 }

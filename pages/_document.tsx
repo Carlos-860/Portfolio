@@ -13,7 +13,7 @@ export default function Document() {
     <meta httpEquiv="X-UA-Compatible" content="IE=edge" />
     {/* eslint-disable-next-line @next/next/no-title-in-document-head */}
     <title>Portfolio</title>
-       <meta name="description" content="Carlos Timotheus - A dedicated Full Stack Developer proficient in React js and Laravel Framework." />
+       <meta name="description" content="Carlos Timotheus - A dedicated Frontend Developer proficient in React js, Next js and Laravel Framework." />
 
     {/*These are need for PWA*/}
     <meta name="apple-mobile-web-app-capable" content="yes" />
