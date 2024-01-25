@@ -25,7 +25,7 @@ export default function Career() {
 						<div className={career.companyContent}>
 							<span className={career.companyHeader}>
 								<h3>Genhive (PTY) Ltd</h3>
-								<h4>Permanent Full Time · May 2022 - Present</h4>
+								<h4>Contract · May 2022 - Present</h4>
 							</span>
 							<p>
 								As a Software Engineer at Genhive, my current focus lies in the field of complex project development. I am committed to continuously enhancing my skills and expanding my knowledge to gain valuable experience in this domain.
@@ -46,7 +46,7 @@ export default function Career() {
 						<div className={career.companyContent}>
 							<span className={career.companyHeader}>
 								<h3>CipherCode Design Studio</h3>
-								<h4>Permanent Full Time · Nov 2019 - May 2022</h4>
+								<h4>Permanent Full Time · Nov 2018 - May 2022</h4>
 							</span>
 							<p>
 								As a Frontend Web Developer at CipherCode Design Studios, I played a pivotal role in shaping the user experience and interface of our cutting-edge web applications. Collaborating closely with cross-functional teams, I translated design concepts into responsive and visually appealing user interfaces. Leveraging my expertise in JavaScript and React JS, I implemented interactive features and optimized site performance to ensure seamless navigation.
