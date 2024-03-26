@@ -1,17 +1,17 @@
 [
 	{
-		"project": "LT Headphones",
-		"url": "https://ecommerce-app-pink-nine.vercel.app/",
+		"project": "Car Showcase",
+		"url": "https://car-showcase-project-t.netlify.app/",
 		"repo": "public",
-		"repo_url": "https://github.com/Carlos-860/ecommerce-app",
-		"descriptionTitle": "LT Headphones is a ecommere store",
-		"description": ". It utilizes Stripe to process payments.",
+		"repo_url": "https://github.com/Carlos-860/car-showcase",
+		"descriptionTitle": "A car showcase",
+		"description": "that utlizes Next js",
 		"imageOptions": [],
 		"images": [
 			{
 				"h": "300",
 				"w": "700",
-				"url": "/img/lt-headphones.png"
+				"url": "/img/car-showcase.png"
 			}
 		],
 		"stack": [
@@ -84,7 +84,7 @@
 		"project": "Tesla",
 		"url": "https://tesla-clone-build.netlify.app/",
 		"repo": "public",
-		"repo_url": "https://github.com/Lyletimotheus/tesla-clone",
+		"repo_url": "https://github.com/Carlos-860/Tesla-Clone",
 		"descriptionTitle": "A Tesla clone built in React.",
 		"description": "A fast and responsive single page application.",
 		"imageOptions": [],
